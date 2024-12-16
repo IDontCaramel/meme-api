@@ -92,7 +92,7 @@ async function generateMemeQuote() {
                 {
                     role: "user",
                     content:
-                        "Write a unhinged and funny meme quote and needs to be short, it can have 2 parts max which should be separated by a comma. If needed to use swear words replace them with 'frick' or 'fricking'.",
+                        "Write a unhinged and funny meme quote and needs to be short, it can have 2 parts max which should be separated by a comma. If needed to use swear words replace them with 'frick' or 'fricking' please refrain from saying wich part 1 or part 2",
                 },
             ],
         });
